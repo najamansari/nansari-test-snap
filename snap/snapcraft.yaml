@@ -3,7 +3,7 @@ base: core20
 version: '0.1.0'
 title: nansari-test-snap
 summary: A trivial snap application built via Github.
-description: A simple snap. With an updated description.
+description: A simple snap. With an updated description. Goes to candidate.
 
 grade: stable
 confinement: strict
