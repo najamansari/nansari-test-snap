@@ -21,5 +21,4 @@ parts:
     plugin: python
 
 architectures:
-  - build-on: amd64
-    build-for: amd64
+  - build-on: [amd64]
