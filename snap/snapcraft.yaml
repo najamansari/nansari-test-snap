@@ -19,3 +19,7 @@ parts:
 
   python:
     plugin: python
+
+architectures:
+  - build-on: [amd64]
+    build-for: [amd64]
